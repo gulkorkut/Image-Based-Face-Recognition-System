@@ -36,7 +36,7 @@ Follow these steps to set up the project on your local machine:
 
 3. **Run the application**:
    ```bash
-   python face_recognition_app.py
+   python face_recognition_application.py
    ```
 
 4. **View Results**:
